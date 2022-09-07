@@ -28,3 +28,31 @@ way it was intended to be used? In contrast, engineers are interested in issues 
 concerns like cost, durability, structural aspects, environmental aspects, fire regulations, and construction methods. Just as there is a
 difference between designing and building a house, so too is there a distinction between designing an interactive product and
 engineering the software for it.
+
+# **1.3.1 The Components of Interaction Design**
+
+We view interaction design as fundamental to all disciplines, fields, and approaches that are concerned with researching and
+designing computer-based systems for people (see **Figure 1.4**). Why are there so many and what do they all do? Furthermore, how do
+the various disciplines, fields, and design approaches differ from one another?
+
+We have already described the distinction between interaction design and software engineering. The differences between interaction
+design and the other approaches referred to in the figure are largely down to which methods, philosophies, and lenses they use to
+study, analyze, and design computers. Another way they vary is in terms of the scope and problems they address. For example,
+Information Systems is concerned with the application of computing technology in domains like business, health, and education,
+whereas Computer-Supported Cooperative Work (CSCW) is concerned with the need also to support multiple people working together
+using computer systems (Greif, 1988).
+
+# **BOX 1.1**
+
+# **Is interaction design beyond HCI?**
+
+We see the main difference between Interaction Design (ID) and Human–Computer Interaction (HCI) as one of scope. ID has
+cast its net much wider, being concerned with the theory, research, and practice of designing user experiences for all manner of
+technologies, systems, and products, whereas HCI has traditionally had a narrower focus, being “concerned with the design,
+evaluation, and implementation of interactive computing systems for human use and with the study of major phenomena
+surrounding them” (ACM SIGCHI, 1992, p. 6). That is one of the reasons why we chose to call our book Interaction Design:
+Beyond Human– Computer Interaction, to reflect the wider scope.
+
+What about Human Factors and Ergonomics? We see Ergonomics and Human Factors as having closely overlapping goals
+with HCI, being concerned with understanding the interactions among humans and other aspects of a system in order to
+optimize human well-being and overall system performance.
