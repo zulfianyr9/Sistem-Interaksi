@@ -6,7 +6,7 @@
 
 1.1 Introduction
 
-1.1 Pendahuluan
+1.1 Pengantar
 
 1.2 Good and Poor Design
 
@@ -22,34 +22,57 @@
 
 1.5 The Process of Interaction Design
 
-1.5 
+1.5 Proses Desain Interaksi
 
 1.6 Interaction Design and the User Experience
 
+1.6 Desain Interaksi dan Pengalaman Pengguna
+
 # **Objectives**
+# **Objektif**
 The main aims of this chapter are to:
+
+Tujuan utama dari bab ini adalah untuk:
 <ul>
 <li> Explain the difference between good and poor interaction design.
+<li> Jelaskan perbedaan antara desain interaksi yang baik dan buruk.
 <li> Describe what interaction design is and how it relates to human–computer interaction and other fields.
+<li> Jelaskan apa itu desain interaksi dan bagaimana kaitannya dengan interaksi manusia-komputer dan bidang lainnya.
 <li> Explain the relationship between the user experience and usability.
+<li> Jelaskan hubungan antara pengalaman pengguna dan kegunaan.
 <li> Describe what and who is involved in the process of interaction design.
+<li> Jelaskan apa dan siapa yang terlibat dalam proses desain interaksi.
 <li> Outline the different forms of guidance used in interaction design.
+<li> Garis besar berbagai bentuk bimbingan yang digunakan dalam desain interaksi.
 <li> Enable you to evaluate an interactive product and explain what is good and bad about it in terms of the goals and core
-principles of interaction design.
+<li> Memungkinkan Anda untuk mengevaluasi produk interaktif dan menjelaskan apa yang baik dan buruk tentang itu dalam hal tujuan dan inti
+prinsip desain interaksi.
 </ul>
 <div style="text-align: justify">
 
 # **1.1 Introduction**
+# **1.1 Pengantar**
 How many interactive products are there in everyday use? Think for a minute about what you use in a typical day: smartphone, tablet,
 computer, remote control, coffee machine, ATM, ticket machine, printer, iPod, GPS, e-reader, TV, electric toothbrush, radio, games
 console . . . the list is endless. Now think for a minute about how usable they are. How many are actually easy, effortless, and enjoyable
 to use? Some, like the iPod, are a joy to use. Others, like a ticket machine, can be very frustrating. Why is there a difference?
+
+Berapa banyak produk interaktif yang ada dalam penggunaan sehari-hari? Pikirkan sejenak tentang apa yang Anda gunakan pada hari-hari biasa: smartphone, tablet,
+komputer, remote control, mesin kopi, ATM, mesin tiket, printer, iPod, GPS, e-reader, TV, sikat gigi elektrik, radio, permainan
+konsol. . . daftarnya tidak ada habisnya. Sekarang pikirkan sejenak tentang seberapa berguna mereka. Berapa banyak yang sebenarnya mudah, mudah, dan menyenangkan
+menggunakan? Beberapa, seperti iPod, menyenangkan untuk digunakan. Lainnya, seperti mesin tiket, bisa sangat membuat frustrasi. Mengapa ada perbedaan?
 
 Many products that require users to interact with them, such as smartphones and social networking sites, have been designed
 primarily with the user in mind. They are generally easy and enjoyable to use. Others, such as switching from viewing a rented movie
 on your smart TV to watching a sports channel, or setting the alarm on a digital clock, have not necessarily been designed with the
 users in mind, but have been engineered primarily as systems to perform set functions. While they may work effectively, it can be at the
 expense of how they will be used by real people.
+
+Banyak produk yang mengharuskan pengguna untuk berinteraksi dengan mereka, seperti smartphone dan situs jejaring sosial, telah dirancang
+terutama dengan pengguna dalam pikiran. Mereka umumnya mudah dan menyenangkan untuk digunakan. Lainnya, seperti beralih dari menonton film sewaan
+di smart TV Anda untuk menonton saluran olahraga, atau menyetel alarm pada jam digital, belum tentu dirancang dengan
+pengguna dalam pikiran, tetapi telah direkayasa terutama sebagai sistem untuk melakukan fungsi yang ditetapkan. Meskipun mereka mungkin bekerja secara efektif, itu bisa di
+mengorbankan bagaimana mereka akan digunakan oleh orang-orang nyata.
 
 One main aim of interaction design is to reduce the negative aspects (e.g. frustration, annoyance) of the user experience while
 enhancing the positive ones (e.g. enjoyment, engagement). In essence, it is about developing interactive products1 that are easy,
