@@ -38,6 +38,7 @@ The main aims of this chapter are to:
 principles of interaction design.
 </ul>
 <div style="text-align: justify">
+
 # **1.1 Introduction**
 How many interactive products are there in everyday use? Think for a minute about what you use in a typical day: smartphone, tablet,
 computer, remote control, coffee machine, ATM, ticket machine, printer, iPod, GPS, e-reader, TV, electric toothbrush, radio, games
