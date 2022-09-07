@@ -192,8 +192,10 @@ available. They, too, are equally diverse: multitouch displays, speech-based sys
 commands, forms, icons, gestures, etc. Furthermore, ever more innovative everyday artifacts are being created, using novel materials,
 such as e-textiles and wearables (see **Figure 1.3**).
 
-Figure 1.3 Turn signal biking jacket using e-textiles developed by Leah Beuchley
-Source: Photos courtesy of Leah Buechley.
+**Figure 1.3 Turn signal biking jacket using e-textiles developed by Leah Beuchley**
+
+**Source: Photos courtesy of Leah Buechley.**
+
 The interfaces for everyday consumer items, like cameras, microwave ovens, and washing machines, that used to be physical and the
 realm of product design, are now predominantly digitally based, requiring interaction design (called consumer electronics). The move
 towards transforming human–human transactions into solely interface-based ones has also introduced a new kind of customer
@@ -201,8 +203,19 @@ interaction. Self-checkouts at grocery stores, airports, and libraries are becom
 in their own goods, luggage, or books. Instead of a friendly face helping them out, interfaces bark orders at them. While more costeffective,
 it puts the onus on the users to interact with the system. Accidentally pressing the wrong button can result in a frustrating, and
 sometimes mortifying, experience, especially for first-time users.
+
 What this all amounts to is a multitude of choices and decisions that interaction designers have to make for an ever-increasing range
 of products. A key question for interaction design is: how do you optimize the users’ interactions with a system, environment, or product,
 so that they support and extend the users’ activities in effective, useful, and usable ways? One could use intuition and hope for the best.
 Alternatively, one can be more principled in deciding which choices to make by basing them on an understanding of the users. This
 involves:
+<ul>
+<li> Taking into account what people are good and bad at.
+<li> Considering what might help people with the way they currently do things.
+<li> Thinking through what might provide quality user experiences.
+<li> Listening to what people want and getting them involved in the design.
+<li> Using tried and tested user-based techniques during the design process.
+</ul>
+The aim of this book is to cover these aspects with the goal of teaching you how to carry out interaction design. In particular, it focuses
+on how to identify users’ needs and the context of their activities, and from this understanding move to designing usable, useful, and
+pleasurable interactive products.
